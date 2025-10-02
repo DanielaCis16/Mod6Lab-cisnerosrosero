@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "e9oaLiAPlKvPh6mY0WA1a/51bh0PFjQ0kOEuDIzYVhI=",
+  "Source": "TeenHangout",
+  "BasePath": "_content/TeenHangout",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TeenHangout/wwwroot",
+      "Source": "TeenHangout",
+      "ContentRoot": "/workspaces/Mod6Lab-cisnerosrosero/TeenHangout/wwwroot/",
+      "BasePath": "_content/TeenHangout",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/workspaces/Mod6Lab-cisnerosrosero/TeenHangout/wwwroot/index.html",
+      "SourceId": "TeenHangout",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Mod6Lab-cisnerosrosero/TeenHangout/wwwroot/",
+      "BasePath": "_content/TeenHangout",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/workspaces/Mod6Lab-cisnerosrosero/TeenHangout/wwwroot/styles.css",
+      "SourceId": "TeenHangout",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Mod6Lab-cisnerosrosero/TeenHangout/wwwroot/",
+      "BasePath": "_content/TeenHangout",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ]
+}
